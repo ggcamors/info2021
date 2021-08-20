@@ -1,0 +1,129 @@
+body{
+    font-family: 'Georama', sans-serif;
+    background: linear-gradient(#934cc2, #2b257e) ;
+}
+section {
+    height: 500px;
+    background-color: rgba(59, 20, 20, 0.3);
+    border: solid white 1px;
+    font-family: 'Georama', sans-serif;
+
+}
+.hero{
+
+    height: 0vh;
+    color: white;
+    font-size: 35px;
+    }
+
+a:visited{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: gray;
+}
+
+footer{
+
+    height: 500px;
+   
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+}
+
+li{
+    /*width: 200px;*/
+    text-decoration: none;
+}
+
+h1{
+    font-size: 55px;
+    margin: 0;
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+    margin: 0;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+
+.hero-area{
+    padding: 70px 0 0 0;
+    display: flex;
+    height: 10%;
+    justify-content: space-between;    
+}
+
+.hero-text{
+    margin-left: 50px;
+
+}
+
+
+.socials{
+    padding-bottom: 200px;
+    margin: 60px;
+
+}
+
+.logo{
+    height: 80px;
+    margin: 20px;
+}
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+.headshot {
+    width: 150px;
+    border-radius: 700px;
+    margin-left: 80px;
+
+}
+
+.headshot-container {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+     }
+
+
+
+.information {
+    text-shadow: 5px 5px 5px black;
+
+}
+
+
