@@ -1,4 +1,0 @@
-Oscar,Ecotto,06-01-1968,45000
-Mariano,Scuña,15-05-2000,16000
-Carla,Lanis,25-09-1988,23000
-Sergio,Wense,02-10-1995,12500
